@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9d421116976f6a4a38572d749081211",
+    "revision": "6674e73573a77fcb8558f86112192823",
     "url": "/muzhaqi16/react-translation-validation/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/muzhaqi16/react-translation-validation/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "13214feabc4548429acc",
-    "url": "/muzhaqi16/react-translation-validation/static/css/main.9ea96503.chunk.css"
+    "revision": "bb4582a08db4253ab8e6",
+    "url": "/muzhaqi16/react-translation-validation/static/css/main.4103b284.chunk.css"
   },
   {
     "revision": "777b823a6a56d6fbb641",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/muzhaqi16/react-translation-validation/static/js/2.8de1d6f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13214feabc4548429acc",
+    "revision": "bb4582a08db4253ab8e6",
     "url": "/muzhaqi16/react-translation-validation/static/js/main.cfefb9b5.chunk.js"
   },
   {

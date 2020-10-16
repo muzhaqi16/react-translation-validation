@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/muzhaqi16/react-translation-validation/static/css/main.9ea96503.chunk.css",
+    "main.css": "/muzhaqi16/react-translation-validation/static/css/main.4103b284.chunk.css",
     "main.js": "/muzhaqi16/react-translation-validation/static/js/main.cfefb9b5.chunk.js",
     "main.js.map": "/muzhaqi16/react-translation-validation/static/js/main.cfefb9b5.chunk.js.map",
     "runtime-main.js": "/muzhaqi16/react-translation-validation/static/js/runtime-main.f76468b9.js",
@@ -9,17 +9,17 @@
     "static/js/2.8de1d6f7.chunk.js": "/muzhaqi16/react-translation-validation/static/js/2.8de1d6f7.chunk.js",
     "static/js/2.8de1d6f7.chunk.js.map": "/muzhaqi16/react-translation-validation/static/js/2.8de1d6f7.chunk.js.map",
     "index.html": "/muzhaqi16/react-translation-validation/index.html",
-    "precache-manifest.7e0bbfe5bc766ff5a0fa914414fac50b.js": "/muzhaqi16/react-translation-validation/precache-manifest.7e0bbfe5bc766ff5a0fa914414fac50b.js",
+    "precache-manifest.dbc53312960b435a0bea294e1f57cbb7.js": "/muzhaqi16/react-translation-validation/precache-manifest.dbc53312960b435a0bea294e1f57cbb7.js",
     "service-worker.js": "/muzhaqi16/react-translation-validation/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/muzhaqi16/react-translation-validation/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.9ea96503.chunk.css.map": "/muzhaqi16/react-translation-validation/static/css/main.9ea96503.chunk.css.map",
+    "static/css/main.4103b284.chunk.css.map": "/muzhaqi16/react-translation-validation/static/css/main.4103b284.chunk.css.map",
     "static/js/2.8de1d6f7.chunk.js.LICENSE.txt": "/muzhaqi16/react-translation-validation/static/js/2.8de1d6f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f76468b9.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.8de1d6f7.chunk.js",
-    "static/css/main.9ea96503.chunk.css",
+    "static/css/main.4103b284.chunk.css",
     "static/js/main.cfefb9b5.chunk.js"
   ]
 }
